@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Surendra Kumawat</h1>   
-<p align="center">A Passionate Data Analyst</p><br>
+<h4><p align="center">A Passionate Data Analyst</p><h4><br>
 
 - <h4>🌱 I’m currently learning Data Analytics at an advanced level </h4>
 - <h4>💞️ I’m looking to collaborate on Data Analytics projects</h4>
