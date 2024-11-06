@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I’m Surendra Kumawat</h1>   
 <h2><p align="center">A Passionate Data Analyst</p><h2><br>
 
-- <h4>🌱 I’m currently learning Data Analytics at an advanced level </h4>
-- <h4>💞️ I’m looking to collaborate on Data Analytics projects</h4>
-- <h4>⚡ I'm looking for help with Data Science</h4>
-- <h4>📫 How to reach me: <a href="https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ifkv=ARpgrqeg6cHYIJglff12rqb8kehZBLbB0qnOSEdSb3bdp-DqGGCx-rqq6Su5WP_DIGmRuRHtJexqnA&rip=1&sacu=1&service=mail&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S-1072422272%3A1726673621547329&ddm=0"/>Surendrakumawatnwh@gmail.com</h4>
+<h2>🌱 Diving Deep into Advanced Data Analytics</h2>
+<p> 💡 <strong>Open to Collaborations</strong>: Eager to team up on exciting Data Analytics projects!</p>
+<p> 🚀 <strong>Seeking Guidance in Data Science</strong>: Always looking to expand my skills with expert insights.</p>
+<p> 📬 <strong>Get in Touch</strong>: <a href="mailto:Surendrakumawatnwh@gmail.com">Surendrakumawatnwh@gmail.com</a></p>
+
 
 ---
 
