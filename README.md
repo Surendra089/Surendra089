@@ -1,5 +1,6 @@
 <h1 align= "center">Hi 👋, I’m Surendra Kumawat</h1>
-<h2 align= "center">A Passionate Data Analyst Enthusiast</h2>
+<h2 align= "center">A Fervent Enthusiast For Data Analysis
+</h2>
 
 <p>🔍 <strong>Exploring Insights</strong>: Transforming raw data into meaningful insights that drive smart decisions.</p>
 <p>📊 <strong>Data Analysis & Visualization</strong>: Skilled in Python, SQL, Power BI, and Excel to bring data stories to life.</p>
