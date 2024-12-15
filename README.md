@@ -16,7 +16,7 @@
 ### Connect with me:
 <p >
   <a href="https://www.linkedin.com/in/surendra089/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="55" height="55"></a>
-  <a href="https://www.instagram.com/compile_clan/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="55" height="55"></a>
+  <a href="https://www.instagram.com/surendra089/"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="55" height="55"></a>
 </p>
 
 ### Languages and Tools:
