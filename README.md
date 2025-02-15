@@ -1,15 +1,71 @@
+![](https://komarev.com/ghpvc/?username=Surendra089&label=Profile%20Views&color=0e75b6&style=flat)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surendra089) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surendra089) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surendrakumawatnwh@gmail.com) 
+<h1 align="center"> Hi there, Its me Surendra! 🙋‍♂️</h1>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Surendra089&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Surendra089&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surendra089&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+### About Me
+
+I'm a **Data Analyst** with a master's degree in computer science. I love working on real-life projects and leveraging tools like **Excel**, **Power BI**, **Python**, **SQL**, and **AI** to turn data into actionable insights.
+
+- 🌱 Currently honing my skills in **Data Analysis**.
+- 📊 Passionate about creating **data-driven solutions** and developing insightful **dashboards**.
+- 💻 Enjoy coding in **Python**, focusing on creating useful tools and projects.
+- 🎨 Always ready to apply my skills to enhance projects.
+- 🎯 **I’m looking for Data Analyst role** to leverage my skills in a professional setting.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Surendra089&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Skills
+
+#### Programming Language
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+
+#### Python Libraries
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
+![NumPY](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white) 
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlite&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B0000?style=flat&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-88CC44?style=flat&logo=scrapy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+
+#### Tools And Technologies
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets)
+![MIS](https://img.shields.io/badge/-MIS-217346?style=flat&logo=microsoft-excel)
+![SQL](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![AI Tools](https://img.shields.io/badge/-ChatGPT-00B37E?style=flat&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-2B2B2B?style=flat&logo=microsoft&logoColor=white)
+
+#### Soft Skills
+⏳ Time Management  
+🔍 Problem Solving  
+🔄 Adaptability  
+🤝 Team Collaboration
+
+---
+### 🎓Education & Experience
+
+-  **Master's in Computer Science** from Bikaner Technical University
+  
+### 🏅Internship's Experience
+ 
+- @Internshala Internship In  **Data Science** , 2024-25
+ 
+### Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surendra089/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Surendrakumawatnwh@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/Surendra089)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surendra089)
+
+I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
