@@ -47,10 +47,13 @@ I'm a **Data Analyst** with a master's degree in computer science. I love workin
 ![Microsoft Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-2B2B2B?style=flat&logo=microsoft&logoColor=white)
 
 #### Soft Skills
-⏳ Time Management  
-🔍 Problem Solving  
-🔄 Adaptability  
-🤝 Team Collaboration
+⏳ Mastering Time Management – Prioritize, Plan & Execute Efficiently!
+
+🔍 Sharpening Problem-Solving Skills – Analyze, Strategize & Conquer Challenges!
+
+🔄 Embracing Adaptability – Stay Agile, Learn Fast & Thrive in Any Situation!
+
+🤝 Elevating Team Collaboration – Communicate, Coordinate & Achieve Together!
 
 ---
 ### 🎓Education & Experience
