@@ -73,4 +73,4 @@ I'm a **Data Analyst** with a master's degree in computer science. I love workin
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=firefox&logoColor=white)](https://github.com/Surendra089)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/surendra089)
 
-I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out!
+I’m always open to discussing new projects, ideas, or opportunities to collaborate. Feel free to reach out! 
